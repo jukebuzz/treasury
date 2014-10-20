@@ -16,3 +16,6 @@ Coins :moneybag: :moneybag: :moneybag: on #railsrumble channel for commits.
 
 ## Vote for us
 You can [vote for us](http://railsrumble.com/?view=http://jukebuzz.r14.railsrumble.com/) in the [2014 Rails Rumble](http://railsrumble.com/)!
+
+
+:moneybag: :moneybag: :moneybag:
