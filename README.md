@@ -1,4 +1,4 @@
-# Juckbuzz treasury
+# Jukebuzz treasury
 
 http://jukebuzz.r14.railsrumble.com
 
